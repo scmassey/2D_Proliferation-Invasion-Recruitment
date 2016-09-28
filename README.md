@@ -1,5 +1,5 @@
 # 2D_Proliferation-Invasion-Recruitment
-These codes were used to generate the simulations in the paper "Simulating PDGF-driven Glioma Growth and Invasion in an Anatomically Accurate Brain Domain." submitted to the Bulletin of Mathematical Biology in 2016. 
+These MATLAB codes were used to generate the simulations in the paper "Simulating PDGF-driven Glioma Growth and Invasion in an Anatomically Accurate Brain Domain." submitted to the Bulletin of Mathematical Biology in 2016. 
 
 Essentially we are solving this mathematical model using Godunov splitting to apply the diffusion and reaction operators. We also use a split to set up the problem as locally one-dimensional, solving in x- and y-directional sweeps.
 
